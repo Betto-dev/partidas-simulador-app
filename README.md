@@ -1,4 +1,4 @@
-# Partidas Simulador App
+# Simulador de Partida App
 
 App Android Nativo de Simulação de Partida. Este repositorio foi organizado em algumas branches que representam as implementações realizadas durante os seguintes conteúdos/videos:
 
